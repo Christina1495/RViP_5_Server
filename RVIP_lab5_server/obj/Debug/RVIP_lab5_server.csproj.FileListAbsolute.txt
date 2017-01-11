@@ -1,0 +1,16 @@
+E:\LABS\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\RVIP_lab5_server.exe.config
+E:\LABS\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\RVIP_lab5_server.exe
+E:\LABS\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\RVIP_lab5_server.pdb
+E:\LABS\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\Apache.Ignite.Core.dll
+E:\LABS\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\Apache.Ignite.Core.xml
+E:\LABS\RVIP_lab5_server\RVIP_lab5_server\obj\Debug\RVIP_lab5_server.csprojResolveAssemblyReference.cache
+E:\LABS\RVIP_lab5_server\RVIP_lab5_server\obj\Debug\RVIP_lab5_server.exe
+E:\LABS\RVIP_lab5_server\RVIP_lab5_server\obj\Debug\RVIP_lab5_server.pdb
+C:\Users\Christina_R\Desktop\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\RVIP_lab5_server.exe.config
+C:\Users\Christina_R\Desktop\RVIP_lab5_server\RVIP_lab5_server\obj\Debug\RVIP_lab5_server.exe
+C:\Users\Christina_R\Desktop\RVIP_lab5_server\RVIP_lab5_server\obj\Debug\RVIP_lab5_server.pdb
+C:\Users\Christina_R\Desktop\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\RVIP_lab5_server.exe
+C:\Users\Christina_R\Desktop\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\RVIP_lab5_server.pdb
+C:\Users\Christina_R\Desktop\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\Apache.Ignite.Core.dll
+C:\Users\Christina_R\Desktop\RVIP_lab5_server\RVIP_lab5_server\bin\Debug\Apache.Ignite.Core.xml
+C:\Users\Christina_R\Desktop\RVIP_lab5_server\RVIP_lab5_server\obj\Debug\RVIP_lab5_server.csprojResolveAssemblyReference.cache
